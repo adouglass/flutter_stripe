@@ -3327,7 +3327,7 @@ class _$_PaymentMethodParamsCardWithMethodId
   @override
   Map<String, dynamic> toJson() {
     return _$_$_PaymentMethodParamsCardWithMethodIdToJson(this)
-      ..['type'] = 'CardId';
+      ..['type'] = 'Card';
   }
 }
 
